@@ -1,0 +1,168 @@
+========================================================================
+Activity Run: 2026-04-22 13:36:47
+========================================================================
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\data\deleted_chirps.csv
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 15:45:37 2026
+New MTIME: Tue Apr 21 15:45:37 2026
+New Size: 130
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\HR\salaries_2025.csv
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 12:08:21 2026
+New MTIME: Wed Apr 22 12:08:21 2026
+New Size: 151
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\Projects\workstation_todo.txt
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 13:46:15 2026
+New MTIME: Tue Apr 21 13:46:15 2026
+New Size: 174
+------------------------------------------------------------------------
+
+========================================================================
+Activity Run: 2026-04-22 13:36:57
+========================================================================
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\IT\vpn_config.cfg
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 08:04:11 2026
+New MTIME: Wed Apr 22 08:04:11 2026
+New Size: 101
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\data\confidential_chirps.csv
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 18:04:02 2026
+New MTIME: Tue Apr 21 18:04:02 2026
+New Size: 129
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\HR\employee_notes.txt
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 17:10:12 2026
+New MTIME: Tue Apr 21 17:10:12 2026
+New Size: 168
+------------------------------------------------------------------------
+
+testing
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\logs\event_logs.txt
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 09:28:52 2026
+New MTIME: Wed Apr 22 09:28:52 2026
+New Size: 139
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\config\db_connection.txt
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 13:32:38 2026
+New MTIME: Wed Apr 22 13:32:38 2026
+New Size: 145
+------------------------------------------------------------------------
+
+========================================================================
+Activity Run: 2026-04-22 13:37:40
+========================================================================
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\IT\passwords.txt
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 14:00:14 2026
+New MTIME: Tue Apr 21 14:00:14 2026
+New Size: 151
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\logs\access_logs.txt
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 13:48:32 2026
+New MTIME: Tue Apr 21 13:48:32 2026
+New Size: 156
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\config\app_config.cfg
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 13:50:19 2026
+New MTIME: Tue Apr 21 13:50:19 2026
+New Size: 135
+------------------------------------------------------------------------
+
+========================================================================
+Activity Run: 2026-04-22 13:38:04
+========================================================================
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\Projects\workstation_todo.txt
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 12:50:51 2026
+New MTIME: Wed Apr 22 12:50:51 2026
+New Size: 224
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\HR\salaries_2025.csv
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 13:24:01 2026
+New MTIME: Wed Apr 22 13:24:01 2026
+New Size: 182
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\HR\employee_notes.txt
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 13:50:31 2026
+New MTIME: Tue Apr 21 13:50:31 2026
+New Size: 209
+------------------------------------------------------------------------
+
+========================================================================
+Activity Run: 2026-04-22 14:03:41
+========================================================================
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\IT\test.txt
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 08:10:18 2026
+New MTIME: Wed Apr 22 08:10:18 2026
+New Size: 39
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\Projects\q4_budget.csv
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 18:48:48 2026
+New MTIME: Tue Apr 21 18:48:48 2026
+New Size: 146
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\config\app_config.cfg
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 16:02:19 2026
+New MTIME: Tue Apr 21 16:02:19 2026
+New Size: 135
+------------------------------------------------------------------------
+
+========================================================================
+Activity Run: 2026-04-22 14:03:59
+========================================================================
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\config\db_connection.txt
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 08:12:57 2026
+New MTIME: Wed Apr 22 08:12:57 2026
+New Size: 145
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\IT\passwords.txt
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 14:44:28 2026
+New MTIME: Tue Apr 21 14:44:28 2026
+New Size: 151
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\logs\access_logs.txt
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 12:47:15 2026
+New MTIME: Wed Apr 22 12:47:15 2026
+New Size: 157
+------------------------------------------------------------------------
+
+========================================================================
+Activity Run: 2026-04-22 14:04:03
+========================================================================
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\Projects\workstation_todo.txt
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 10:48:24 2026
+New MTIME: Wed Apr 22 10:48:24 2026
+New Size: 173
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\server\data\deleted_chirps.csv
+Change Type: timestamp + content + size
+New ATIME: Tue Apr 21 18:54:07 2026
+New MTIME: Tue Apr 21 18:54:07 2026
+New Size: 128
+------------------------------------------------------------------------
+File: C:\Users\andyr\PycharmProjects\week-13-traps-and-decoys-andrew-hamilton-1\docs\decoys\workstation\IT\vpn_config.cfg
+Change Type: timestamp + content + size
+New ATIME: Wed Apr 22 10:21:46 2026
+New MTIME: Wed Apr 22 10:21:46 2026
+New Size: 110
+------------------------------------------------------------------------
+

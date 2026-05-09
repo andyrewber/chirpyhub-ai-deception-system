@@ -1,0 +1,13 @@
+# Reflection
+
+For this project, I designed a decoy directory system for ChirpyHub that would look believable to an attacker while also making it easier to detect suspicious behavior. I created two separate directory structures, one for a workstation and one for an internal application server. I included realistic folder names and files like passwords, salary information, logs, configuration files, and deleted chirp data because those are the kinds of files that would likely attract attention from a malicious actor.
+
+For the activity schedule, I used a combination of structured randomization, time-of-day logic, and day-of-week logic. The goal was to avoid making the decoy environment look too static or too artificial. During weekdays, the script favors work-hour activity, roughly between 8 AM and 6 PM, because that is when legitimate employees would be most likely to access or update files. On weekends, the script still allows some activity, but it is more limited so it does not look like constant office usage. I modeled this based on normal workplace behavior and general expectations of when users are active on enterprise systems.
+
+A metadata change looks natural to a forensic investigator when it matches believable user behavior. For example, opening a file should affect access time, while editing a file should affect both modified time and file size. A convincing change is one that fits the file’s role and timing. If a budget file gets updated during business hours with a small content change, that looks normal. If multiple unrelated files are updated at exactly the same second every day, that would look obviously scripted.
+
+If an attacker reads a file in the decoy vault, the access time, or atime, is the metadata field that should change. That is useful because it can show that a file was touched even if its contents were not altered. In my trap script, I used both real-time monitoring and polling of file access times to improve detection of read-only access.
+
+I think a machine learning model could potentially make the scheduling more realistic, but for this project structured randomization is enough. It is simpler, easier to explain, and still produces believable activity. One limitation of my approach is that the behavior patterns are still rule-based, so an experienced attacker or analyst might notice that changes happen within predictable ranges. That means a more advanced system could eventually be improved by adding more variation or modeling longer-term user habits.
+
+I used outside course materials and examples as inspiration for the structure, metadata handling, and monitoring logic.

@@ -1,0 +1,6 @@
+.env
+.idea/
+*.raw
+.venv/
+*.mp4
+docs/Screenshots and Video/*.mp4

@@ -1,0 +1,5 @@
+category,amount,status
+cloud_hosting,12000,approved
+security_tools,8500,pending
+staff_training,3000,approved
+9999,test_record,review_pending
